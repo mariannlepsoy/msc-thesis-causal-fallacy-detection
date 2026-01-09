@@ -1,6 +1,7 @@
 # Master's thesis
 
 **Title:** Prompting and Causal Fallacy Detection in Large Language Models
+
 **Degree:** Master's thesis (30 ECTS)
 
 
