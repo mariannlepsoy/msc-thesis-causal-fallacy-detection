@@ -2,7 +2,7 @@
 
 **Title:** Prompting and Causal Fallacy Detection in Large Language Models
 
-**Degree:** Master's thesis (30 ECTS)
+**Type:** Master's thesis (30 ECTS)
 
 
 This repository will contain my master's thesis after formal evaluation.
